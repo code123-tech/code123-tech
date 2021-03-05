@@ -6,6 +6,16 @@
 * I'm currently working on A Blog Project using nextJs, nodejs and MongoDb.
 * I also Do Programming on platform like Codechef, codeforces, Leetcode.
 * I Love Competitve Programming.
+
+### Skills 
+* React
+* Nodejs
+* Express
+* MongoDB
+* Nextjs
+* Data Structures and Algorithms
+* Python (For Compeititve Programming)
+* JavaScript
 <!--
 **code123-tech/code123-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
