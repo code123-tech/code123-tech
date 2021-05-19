@@ -14,7 +14,7 @@
 * MongoDB
 * Nextjs
 * Data Structures and Algorithms
-* Python (For Compeititve Programming)
+* Python (For Competitive Programming)
 * JavaScript
 <!--
 **code123-tech/code123-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
