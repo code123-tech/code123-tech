@@ -16,6 +16,10 @@
 * Data Structures and Algorithms
 * Python (For Competitive Programming)
 * JavaScript
+
+
+![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123-tech&show_icons=true&theme=radical)
+
 <!--
 **code123-tech/code123-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
