@@ -17,8 +17,12 @@
 * Python (For Competitive Programming)
 * JavaScript
 
-
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=code123-tech&show_icons=true&theme=radical)
+<a href="https://github.com/code123-tech/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=code123-tech&show_icons=true&theme=Gradient&count_private=true" />
+</a>
+<a href="https://github.com/code123-tech/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code123-tech&langs_count=10&layout=compact)](https://github.com/code123-tech/github-readme-stats" />
+</a>
 
 <!--
 **code123-tech/code123-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
