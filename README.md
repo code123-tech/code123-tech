@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-* I'm Swapnil Agrawal, student of Computer Science From SKIT college, Jaipur.
-* I'm currently on the journey of becoming a Full stack Developer. 
-* I have Done Some Projects in React, Nodejs and Mongodb.
-* I'm currently working on A passwordless Authentication Project with my friend.
-* I also Do Programming on platform like Codechef, codeforces, Leetcode.
-* I Love Competitve Programming.
+* 😄 I'm Swapnil Agrawal, student of Computer Science From SKIT college, Jaipur.
+* 👯 I'm on the journey of becoming a Full stack Developer. 
+* 🔨 I have Done Some Projects in React, Nodejs and Mongodb.
+* 🔭 I'm currently working on A passwordless Authentication Project with my friend.
+* 👨‍💻 I also Do Programming on platform like Codechef, codeforces, Leetcode.
 
 ### Skills 
 * React
