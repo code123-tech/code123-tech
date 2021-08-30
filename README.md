@@ -5,9 +5,9 @@
  </div>
  
 * 😄 I'm Swapnil Agrawal, student of Computer Science From SKIT college, Jaipur.
-* 👯 I'm on the journey of becoming a Full stack Developer. 
+* �🚐 I'm on the journey of becoming a Full stack Developer. 
 * 🔨 I have Done Some Projects in React, Nodejs and Mongodb.
-* 🔭 I'm currently working on A passwordless Authentication Project with my friend, developing by Typescript and Nestjs.
+* 🔨 I'm currently working on A passwordless Authentication Project with my friend, developing by Typescript and Nestjs.
 * 👨‍💻 I also Do Programming on platform like Codechef, codeforces, Leetcode.
 
 
