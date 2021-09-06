@@ -47,14 +47,21 @@
   </div>
 </div>
 
-###
 
+<div align="center"> 
+  
+### Github Stats 
+  
+</div>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=code123-tech&theme=react-dark"/>
+
+<div style="display:flex;flex-direction:column;">
+  <img style="width:48%" src="https://github-readme-stats.vercel.app/api?username=code123-tech&show_icons=true&theme=Gradient&count_private=true" />
+  <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=code123-tech&theme=dark" />
+ </div>
 <a href="https://github.com/code123-tech/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=code123-tech&show_icons=true&theme=Gradient&count_private=true" />
-</a>
-<a href="https://github.com/code123-tech/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code123-tech&layout=compact&langs_count=10)](https://github.com/code123-tech/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code123-tech&layout=compact&langs_count=10)](https://github.com/code123-tech/github-readme-stats" />
 </a>
 
 ###
