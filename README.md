@@ -70,9 +70,6 @@
      <a href="https://swapnilagarwal2001.medium.com/">
          <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="![Median]" />
       </a>
-    <a href="https://swapnil-agrawal.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="![Portfolio]" />
-      </a>
   </div>
 </div>
 
