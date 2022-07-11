@@ -76,12 +76,22 @@
       <a href="https://www.linkedin.com/in/swapnil-agrawal-504bba176/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="![Linkedin]" />
       </a>
-     <a href="https://swapnilagarwal2001.medium.com/">
-         <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="![Median]" />
-      </a>
   </div>
 </div>
 
+
+###
+
+<div align="center">
+  
+  ### Read My Blogs
+  
+  <div style="display:flex;justify-content:space-between;">
+      <a href="https://swapnilagarwal2001.medium.com/">
+        <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="![Median]" />
+     </a>
+  </div>
+</div>
 
 
 
