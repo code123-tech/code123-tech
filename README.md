@@ -7,11 +7,12 @@
  </div>
  
 * 😄 I'm Swapnil Agrawal, student of Computer Science From SKIT college, Jaipur.
+* 🚐 Currently, I am working as a Associate Software Engineer with AurigaIt consultation pvt. ltd. Jaipur, Rajasthan.
+* 🚐 I am working with Backend development team Of Java.
 * 🚐 I'm on the journey of becoming a Full stack Developer. 
-* 🔨 I have Done Some Projects in React, Nodejs and Mongodb.
-* 🔨 I'm currently working AurigaIt consultation Pvt Ltd, Jaipur as a Software Engineer trainee.
+* 🔨 I have Done Some Personal Projects in React, Nodejs and Mongodb.
 * 👨‍💻 I also Do Programming on platform like Codechef, codeforces, Leetcode.
-
+* 👨‍💻 I have a knowledge of Spring-boot, ReactJs, Nodejs framework, Java, Javascript languages, and decent knowledge of Databases MYSQL, MongoDb etc.
 
 
 
