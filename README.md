@@ -13,6 +13,7 @@
 * 🔨 I have Done Some Personal Projects in React, Nodejs and Mongodb.
 * 👨‍💻 I also Do Programming on platform like Codechef, codeforces, Leetcode.
 * 👨‍💻 I have a knowledge of Spring-boot, ReactJs, Nodejs framework, Java, Javascript languages, and decent knowledge of Databases MYSQL, MongoDb etc.
+* Have a Look at my resume <a href="https://drive.google.com/file/d/192ahC5_mwCSPwedPTGDSFK9heSlnQlcw/view?usp=sharing">here</a>.
 
 
 
