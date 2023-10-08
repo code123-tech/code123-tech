@@ -20,14 +20,19 @@
   
   ### Skills 
 
-  <div style="display:flex;justify-content:space-between;">
-       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="![HTML5]" />
-       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="![CSS3]" />
-       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="![Java]" />
+  <div style="display:flex;justify-content:space-between;"> 
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="![Spring]" />
+      <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="![Spring Boot]" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="![Spring Security]" /> 
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="![Java]" />
        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="![JavaScript]" />
        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="![React]" />
        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="![Redux]" />
-      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="![GraphQL]" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="![MySQL]" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="![PostgreSQL]" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="![JWT]" />
+      <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="![JUNIT5]" />
+      
   </div>
 </div>
 
@@ -39,7 +44,14 @@
   ### Familiar With 
   
   <div style="display:flex;justify-content:space-between;">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="![HTML5]" />
+       <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="![Grafana]" />
+       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="![CSS3]" />
+        <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="![GraphQL]" />
        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="![Python]" />
+       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="![npm]" />
+       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="![Postman]" />
+      
   </div>
 </div>
 
@@ -50,27 +62,37 @@
   
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=code123-tech&theme=react-dark"/>
-
 <div style="display:flex;flex-direction:column;">
-  <img style="width:48%" src="https://github-readme-stats.vercel.app/api?username=code123-tech&show_icons=true&theme=Gradient&count_private=true" />
-  <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=code123-tech&theme=dark" />
+  <img style="width:48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code123-tech&theme=github_dark" />
+  <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=code123-tech&theme=dark" /> 
+  <img style="width:48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code123-tech&theme=github_dark" />
  </div>
-<a href="https://github.com/code123-tech/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code123-tech&layout=compact&langs_count=10)](https://github.com/code123-tech/github-readme-stats" />
-</a>
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=code123-tech&theme=github_dark" />
 ###
 
 <div align="center">
   
-  ### Contact me📞 
+  ### Connect to me📞
   
   <div style="display:flex;justify-content:space-between;">
-      <a href="https://www.linkedin.com/in/swapnil-agrawal-504bba176/">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="![Linkedin]" />
-      </a>
+        <a href="https://www.linkedin.com/in/swapnil-agrawal-504bba176/">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="![Linkedin]" />
+        </a>
+        <a href="https://leetcode.com/swap2001/">
+            <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="![Leetcode]" />
+        </a> 
+        <a href="https://stackoverflow.com/users/13318793/swap">
+            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="![Stackoverflow]" />
+        </a>
+        <a href="https://twitter.com/ninjaswap_">
+            <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="![Twitter]" />
+        </a>
+        <a href="https://www.codechef.com/users/swap2001">
+            <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="![Codechef]" />
+        </a>
+        <a href="[https://www.codechef.com/users/swap2001](https://www.hackerearth.com/@swapnil880)">
+            <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="![Hackerearth]" />
+        </a>
   </div>
 </div>
 
@@ -79,11 +101,14 @@
 
 <div align="center">
   
-  ### Read My Blogs
-  
+  ### Read My Blogs  
+
   <div style="display:flex;justify-content:space-between;">
       <a href="https://swapnilagarwal2001.medium.com/">
-        <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="![Median]" />
+        <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="![Medium]" />
+     </a>
+      <a href="https://bitmoreengineering.hashnode.dev/">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="![Hashnode]" />
      </a>
   </div>
 </div>
