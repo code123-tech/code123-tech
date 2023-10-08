@@ -15,14 +15,11 @@
 * Have a Look at my resume <a href="https://drive.google.com/file/d/1akI1JTbIMB4YgCiFJPXIflLrgISCrZoO/view" target="_blank">here</a>.
 * Currently, on the daily commitment to learning [Low-level Design](https://github.com/code123-tech/Low-Level-Design-Questions), and [Basics Of Java](https://github.com/code123-tech/Basics_Java_With_OOP_Concepts)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="swapnil-agrawal-504bba176" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/swapnil-agrawal-504bba176?trk=profile-badge">Swapnil Agrawal</a></div>
-              
-
 
 <div align="center">
   
   ### Skills 
-  
+
   <div style="display:flex;justify-content:space-between;">
        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="![HTML5]" />
        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="![CSS3]" />
@@ -30,8 +27,6 @@
        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="![JavaScript]" />
        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="![React]" />
        <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="![Redux]" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="![NodeJS]" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="![MongoDB]" />  
       <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="![GraphQL]" />
   </div>
 </div>
@@ -44,10 +39,7 @@
   ### Familiar With 
   
   <div style="display:flex;justify-content:space-between;">
-       <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="![Firebase]" />
-       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="![React Native]" />
        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="![Python]" />
-    
   </div>
 </div>
 
