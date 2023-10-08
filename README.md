@@ -13,7 +13,7 @@
 * 👨‍💻 I also Do Programming on platforms like Codechef, codeforces, and Leetcode.
 * 👨‍💻 I have a knowledge of Spring-boot, ReactJs, Spring framework, Java, and Javascript languages, and a decent knowledge of Databases MYSQL, PostgreSQL, etc.
 * Have a Look at my resume <a href="https://drive.google.com/file/d/1akI1JTbIMB4YgCiFJPXIflLrgISCrZoO/view" target="_blank">here</a>.
-
+* Currently, on the daily commitment to learning [Low-level Design](https://github.com/code123-tech/Low-Level-Design-Questions), and [Basics Of Java](https://github.com/code123-tech/Basics_Java_With_OOP_Concepts)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="swapnil-agrawal-504bba176" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/swapnil-agrawal-504bba176?trk=profile-badge">Swapnil Agrawal</a></div>
               
