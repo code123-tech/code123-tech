@@ -6,15 +6,17 @@
   
  </div>
  
-* 😄 I'm Swapnil Agrawal, student of Computer Science From SKIT college, Jaipur.
-* 🚐 Currently, I am working as a Associate Software Engineer with AurigaIt consultation pvt. ltd. Jaipur, Rajasthan.
-* 🚐 I am working with Backend development team Of Java.
-* 🚐 I'm on the journey of becoming a Full stack Developer. 
-* 🔨 I have Done Some Personal Projects in React, Nodejs and Mongodb.
-* 👨‍💻 I also Do Programming on platform like Codechef, codeforces, Leetcode.
-* 👨‍💻 I have a knowledge of Spring-boot, ReactJs, Nodejs framework, Java, Javascript languages, and decent knowledge of Databases MYSQL, MongoDb etc.
-* Have a Look at my resume <a href="https://drive.google.com/file/d/1miseOe2sEOCWXOAnxiwR_Q_cygUycs0v/view" target="_blank">here</a>.
+* 😄 I'm Swapnil Agrawal, a student of Computer Science From SKIT College, Jaipur.
+* 🚐 One plus years of experience Engineer, working as an Associate Software Engineer with Pine Labs Pvt. Ltd. (On contract with AurigaIt Consulting Pvt. Ltd.), with a focus on developing web applications using Spring, Spring Boot (Java). I also have proficient knowledge of ReactJs, which enables me to work on full-stack development projects. I have experience working with Relational databases ex: MySQL, PostgreSQL, etc.
+* 🚐 Graduated in Computer Science and Engineering from Skit College, Jaipur. A problem solver skilled in Python, data structures, and algorithms by solving more than 1000 questions including Leetcode and Gfg. I have an internship experience in Reactjs, and Looking forward to more career opportunities in the same. Spend time writing articles on Hashnode, and Medium. 
+* 🔨 I have Done Some Personal Projects in Reactjs etc.
+* 👨‍💻 I also Do Programming on platforms like Codechef, codeforces, and Leetcode.
+* 👨‍💻 I have a knowledge of Spring-boot, ReactJs, Spring framework, Java, and Javascript languages, and a decent knowledge of Databases MYSQL, PostgreSQL, etc.
+* Have a Look at my resume <a href="https://drive.google.com/file/d/1akI1JTbIMB4YgCiFJPXIflLrgISCrZoO/view" target="_blank">here</a>.
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="swapnil-agrawal-504bba176" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/swapnil-agrawal-504bba176?trk=profile-badge">Swapnil Agrawal</a></div>
+              
 
 
 <div align="center">
@@ -71,7 +73,7 @@
 
 <div align="center">
   
-  ### Cotact me📞 
+  ### Contact me📞 
   
   <div style="display:flex;justify-content:space-between;">
       <a href="https://www.linkedin.com/in/swapnil-agrawal-504bba176/">
