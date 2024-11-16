@@ -8,12 +8,15 @@
  </div>
  
 * 😄 I'm Swapnil Agrawal, a student of Computer Science From SKIT College, Jaipur.
-* 🚐 One plus years of experience Engineer, working as an Associate Software Engineer with Pine Labs Pvt. Ltd. (On contract with AurigaIt Consulting Pvt. Ltd.), with a focus on developing web applications using Spring, Spring Boot (Java). I also have proficient knowledge of ReactJs, which enables me to work on full-stack development projects. I have experience working with Relational databases ex: MySQL, PostgreSQL, etc.
+* 🚐 Two and a half plus years of experience Engineer, working as a Backend Software Engineer with Locus.sh
+* Previously worked with Pine Labs Pvt. Ltd. (On contract with AurigaIt Consulting Pvt. Ltd.).
+* I have backend development experience using Spring, and Spring Boot (Java). I also have proficient knowledge of ReactJs, which enables me to work on full-stack development projects. I have experience working with Relational databases ex: MySQL, PostgreSQL, etc.
+* I also have decent knowledge of working with AWS, and Docker technologies.
 * 🚐 Graduated in Computer Science and Engineering from Skit College, Jaipur. A problem solver skilled in Python, data structures, and algorithms by solving more than 1000 questions including Leetcode and Gfg. I have an internship experience in Reactjs, and Looking forward to more career opportunities in the same. Spend time writing articles on Hashnode, and Medium. 
 * 🔨 I have Done Some Personal Projects in Reactjs etc.
 * 👨‍💻 I also Do Programming on platforms like Codechef, codeforces, and Leetcode.
 * 👨‍💻 I have a knowledge of Spring-boot, ReactJs, Spring framework, Java, and Javascript languages, and a decent knowledge of Databases MYSQL, PostgreSQL, etc.
-* Have a Look at my resume <a href="https://drive.google.com/file/d/1akI1JTbIMB4YgCiFJPXIflLrgISCrZoO/view" target="_blank">here</a>.
+* Have a Look at my resume <a href="https://drive.google.com/file/d/1PJDoAP6KB9pXbgyMT8hNCdihfjt4iXkb/view" target="_blank">here</a>.
 * Currently, on the daily commitment to learning [Low-level Design](https://github.com/code123-tech/Low-Level-Design-Questions), and [Basics Of Java](https://github.com/code123-tech/Basics_Java_With_OOP_Concepts)
 
 
